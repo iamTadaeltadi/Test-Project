@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mt9GxhSNobI1evdYUphTgLYGbKbFrEUd2oEsf7pRIu8=",
+  "Source": "songApi",
+  "BasePath": "_content/songApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
