@@ -1,8 +1,8 @@
 # Test-Project
-Song CRUD Application
+#Song CRUD Application
 Welcome to the Song CRUD Application! This application allows users to perform CRUD (Create, Read, Update, Delete) operations on songs, play the songs, and enhance their experience with images, titles, and artist details. The app is built with React, Redux, Redux Saga, and Emotion/Styled Components for styling.
 
-Features
+#Features
 Create: Add new songs to the collection with customizable title, artist, and image.
 Read: View the list of songs, their titles, artists, and album images.
 Update: Edit existing song details like title, artist, or image.
